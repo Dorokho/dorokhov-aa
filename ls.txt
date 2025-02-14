@@ -1,0 +1,9 @@
+итого 28K
+drwxrwxr-x 3 anton anton 4,0K фев 14 20:09 ./
+drwxrwxr-x 3 anton anton 4,0K фев 14 20:05 ../
+-rw-rw-r-- 1 anton anton  587 фев 14 20:07 config.txt
+-rw-rw-r-- 1 anton anton  166 фев 14 19:57 first.txt
+drwxrwxr-x 8 anton anton 4,0K фев 14 20:09 .git/
+-rw-rw-r-- 1 anton anton    0 фев 14 20:09 ls.txt
+-rw-rw-r-- 1 anton anton   13 фев 14 19:56 README.md
+-rw-rw-r-- 1 anton anton  408 фев 14 19:57 status.txt
